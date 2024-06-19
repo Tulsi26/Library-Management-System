@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(88, 100, 231);
+}
+.main{
+    font-size: 50px;
+    text-align: center;
+
+}
+.container{
+    font-size: 20px;
+    text-align: center; 
+    justify-content: center;
+}

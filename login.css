@@ -1,0 +1,30 @@
+.main{
+    margin: 0;
+    padding: 0;
+}
+a{
+    
+color: white;    
+margin-left: 40px;
+float: right;
+} 
+.container{
+    height: 30px;
+    background-color: rgb(26, 26, 41);
+    color: white;
+    font-size: 15px;
+    padding: 12px; 
+}
+.page{
+    margin-top: 150px;
+    /* background-color: rgb(71, 71, 102); */
+    color: rgb(71, 71, 102);;
+    font-size: 30px;
+}
+body{
+     background-color: rgb(202, 241, 239); 
+}
+.abc{
+    /* background-color: rgb(71, 71, 102); */
+    font-size: 20px;
+}
